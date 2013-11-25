@@ -20,3 +20,4 @@
 *.stamp
 s3eAppsFlyerExample/build_s3eappsflyerexample_vc10
 s3eAppsFlyerExample/build_s3eappsflyerexample_vc11x
+s3eAppsFlyerExample/data/app.icf.orig
